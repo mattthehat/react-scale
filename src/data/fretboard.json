@@ -1,0 +1,474 @@
+[
+    { 
+        "id": "1",
+        "note": "E",
+        "alt": null,
+        "active": false
+    },
+    {
+        "id": "2",
+        "note": "F",
+        "alt": null,
+        "active": false
+    },
+    {
+        "id": "3",
+        "note": "F#",
+        "alt": "Gb",
+        "active": false
+    },
+    {
+        "id": "4",
+        "note": "G",
+        "alt": null,
+        "active": false
+    },
+    {
+        "id": "5",
+        "note": "G#",
+        "alt": "Ab",
+        "active": false
+    },
+    {
+        "id": "6",
+        "note": "A",
+        "alt": null,
+        "active": false
+    },
+    {
+        "id": "7",
+        "note": "A#",
+        "alt": "Bb",
+        "active": false
+    },
+    {
+        "id": "8",
+        "note": "B",
+        "alt": null,
+        "active": false
+    },
+    {
+        "id": "9",
+        "note": "C",
+        "alt": null,
+        "active": false
+    },
+    {
+        "id": "10",
+        "note": "C#",
+        "alt": "Db",
+        "active": false
+    },
+    {
+        "id": "11",
+        "note": "D",
+        "alt": null,
+        "active": false
+    },
+    {
+        "id": "12",
+        "note": "D#",
+        "alt": "Eb",
+        "active": false
+    },
+    {
+        "id": "13",
+        "note": "E",
+        "alt": null,
+        "active": false
+    },
+    {
+        "id": "53",
+        "note": "B",
+        "alt": null,
+        "active": false
+    },
+    {
+        "id": "54",
+        "note": "C",
+        "alt": null,
+        "active": false
+    },
+    {
+        "id": "55",
+        "note": "C#",
+        "alt": "Db",
+        "active": false
+    },
+    {
+        "id": "56",
+        "note": "D",
+        "alt": null,
+        "active": false
+    },
+    {
+        "id": "57",
+        "note": "D#",
+        "alt": "Eb",
+        "active": false
+    },
+    {
+        "id": "58",
+        "note": "E",
+        "alt": null,
+        "active": false
+    },
+    {
+        "id": "59",
+        "note": "F",
+        "alt": null,
+        "active": false
+    },
+    {
+        "id": "60",
+        "note": "F#",
+        "alt": "Gb",
+        "active": false
+    },
+    {
+        "id": "61",
+        "note": "G",
+        "alt": null,
+        "active": false
+    },
+    {
+        "id": "62",
+        "note": "G#",
+        "alt": "Ab",
+        "active": false
+    },
+    {
+        "id": "63",
+        "note": "A",
+        "alt": null,
+        "active": false
+    },
+    {
+        "id": "64",
+        "note": "A#",
+        "alt": "Bb",
+        "active": false
+    },
+    {
+        "id": "65",
+        "note": "B",
+        "alt": null, 
+        "active": false
+    },
+
+    {
+        "id": "40",
+        "note": "G",
+        "alt": null,
+        "active": false
+    },
+    {
+        "id": "41",
+        "note": "G#",
+        "alt": "Ab",
+        "active": false
+    },
+    {
+        "id": "42",
+        "note": "A",
+        "alt": null,
+        "active": false
+    },
+    {
+        "id": "43",
+        "note": "A#",
+        "alt": "Bb",
+        "active": false
+    },
+    {
+        "id": "44",
+        "note": "B",
+        "alt": null,
+        "active": false
+    },
+    {
+        "id": "45",
+        "note": "C",
+        "alt": null,
+        "active": false
+    },
+    {
+        "id": "46",
+        "note": "C#",
+        "alt": "Db",
+        "active": false
+    },
+    {
+        "id": "47",
+        "note": "D",
+        "alt": null,
+        "active": false
+    },
+    {
+        "id": "48",
+        "note": "D#",
+        "alt": "Eb",
+        "active": false
+    },
+    {
+        "id": "49",
+        "note": "E",
+        "alt": null,
+        "active": false
+    },
+    {
+        "id": "50",
+        "note": "F",
+        "alt": null,
+        "active": false
+    },
+    {
+        "id": "51",
+        "note": "F#",
+        "alt": "Gb",
+        "active": false
+    },
+    {
+        "id": "52",
+        "note": "G",
+        "alt": null,
+        "active": false
+    },
+
+    {
+        "id": "27",
+        "note": "D",
+        "alt": null,
+        "active": false
+    },
+    {
+        "id": "28",
+        "note": "D#",
+        "alt": "Eb",
+        "active": false
+    },
+    {
+        "id": "29",
+        "note": "E",
+        "alt": null,
+        "active": false
+    },
+    {
+        "id": "30",
+        "note": "F",
+        "alt": null,
+        "active": false
+    },
+    {
+        "id": "31",
+        "note": "F#",
+        "alt": "Gb",
+        "active": false
+    },
+    {
+        "id": "32",
+        "note": "G",
+        "alt": null,
+        "active": false
+    },
+    {
+        "id": "33",
+        "note": "G#",
+        "alt": "Ab",
+        "active": false
+    },
+    {
+        "id": "34",
+        "note": "A",
+        "alt": null,
+        "active": false
+    },
+    {
+        "id": "35",
+        "note": "A#",
+        "alt": "Bb",
+        "active": false
+    },
+    {
+        "id": "36",
+        "note": "B",
+        "alt": null,
+        "active": false
+    },
+    {
+        "id": "37",
+        "note": "C",
+        "alt": null,
+        "active":false
+    },
+    {
+        "id": "38",
+        "note": "C#",
+        "alt": "Db",
+        "active": false
+    },
+    {
+        "id": "39",
+        "note": "D",
+        "alt": null,
+        "active": false
+    },
+    {
+        "id": "14", 
+        "note": "A",
+        "alt": null,
+        "active": false
+    },
+    {
+        "id": "15",
+        "note": "A#",
+        "alt": "Bb",
+        "active": false
+    },
+    {
+        "id": "16",
+        "note": "B",
+        "alt": null,
+        "active": false
+    },
+    {
+        "id": "17",
+        "note": "C",
+        "alt": null,
+        "active": false
+    },
+    {
+        "id": "18",
+        "note": "C#",
+        "alt": "Db",
+        "active": false
+    },
+    {
+        "id": "19",
+        "note": "D",
+        "alt": null,
+        "active": false
+    },
+    {
+        "id": "20",
+        "note": "D#",
+        "alt": "Eb",
+        "active": false
+    },
+    {
+        "id": "21",
+        "note": "E",
+        "alt": null,
+        "active": false
+    },
+    {
+        "id": "22",
+        "note": "F",
+        "alt": null,
+        "active": false
+    },
+    {
+        "id": "23",
+        "note": "F#",
+        "alt": "Gb",
+        "active": false
+        
+    },
+    {
+        "id": "24",
+        "note": "G",
+        "alt": null,
+        "active": false
+    },
+    {
+        "id": "25",
+        "note": "G#",
+        "alt": "Ab",
+        "active": false
+    },
+    {
+        "id": "26",
+        "note": "A",
+        "alt": null, 
+        "active": false
+
+    },
+    {
+        "id": "66",
+        "note": "E",
+        "alt": null,
+        "active": false
+    },
+    {
+        "id": "67",
+        "note": "F",
+        "alt": null,
+        "active": false
+    },
+    {
+        "id": "68",
+        "note": "F#",
+        "alt": "Gb",
+        "active": false
+    },
+    {
+        "id": "69",
+        "note": "G",
+        "alt": null,
+        "active": false
+    },
+    {
+        "id": "70",
+        "note": "G#",
+        "alt": "Ab",
+        "active": false
+    },
+    {
+        "id": "71",
+        "note": "A",
+        "alt": null,
+        "active": false
+    },
+    {
+        "id": "72",
+        "note": "A#",
+        "alt": "Bb",
+        "active": false
+    },
+    {
+        "id": "73",
+        "note": "B",
+        "alt": null,
+        "active": false
+    },
+    {
+        "id": "74",
+        "note": "C",
+        "alt": null,
+        "active": false
+    },
+    {
+        "id": "75",
+        "note": "C#",
+        "alt": "Db",
+        "active": false
+    },
+    {
+        "id": "76",
+        "note": "D",
+        "alt": null,
+        "active": false
+    },
+    {
+        "id": "77",
+        "note": "D#",
+        "alt": "Eb",
+        "active": false
+    },
+    {
+        "id": "78",
+        "note": "E",
+        "alt": null,
+        "active": false
+    }
+]
