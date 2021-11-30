@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-scale/static/css/main.01fa69f9.chunk.css",
+    "main.js": "/react-scale/static/js/main.03273291.chunk.js",
+    "main.js.map": "/react-scale/static/js/main.03273291.chunk.js.map",
+    "runtime-main.js": "/react-scale/static/js/runtime-main.ef6accbb.js",
+    "runtime-main.js.map": "/react-scale/static/js/runtime-main.ef6accbb.js.map",
+    "static/js/2.a4015726.chunk.js": "/react-scale/static/js/2.a4015726.chunk.js",
+    "static/js/2.a4015726.chunk.js.map": "/react-scale/static/js/2.a4015726.chunk.js.map",
+    "static/js/3.81238577.chunk.js": "/react-scale/static/js/3.81238577.chunk.js",
+    "static/js/3.81238577.chunk.js.map": "/react-scale/static/js/3.81238577.chunk.js.map",
+    "index.html": "/react-scale/index.html",
+    "static/css/main.01fa69f9.chunk.css.map": "/react-scale/static/css/main.01fa69f9.chunk.css.map",
+    "static/js/2.a4015726.chunk.js.LICENSE.txt": "/react-scale/static/js/2.a4015726.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef6accbb.js",
+    "static/js/2.a4015726.chunk.js",
+    "static/css/main.01fa69f9.chunk.css",
+    "static/js/main.03273291.chunk.js"
+  ]
+}
