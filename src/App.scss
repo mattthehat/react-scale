@@ -33,6 +33,10 @@ $tertiary: #f9aa33;
   grid-template-columns: 1fr 1fr 150px;
   grid-gap: 24px;
 
+  @media only screen and (max-width: 600px) {
+    grid-template-columns: 1fr;
+  }
+
   &__select {
     appearance: none;
     padding: 7px;
